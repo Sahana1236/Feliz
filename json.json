@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835260926730",
+    "project_id": "reels-downloader-a4a07",
+    "storage_bucket": "reels-downloader-a4a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835260926730:android:ea0435c43be6de79d0c8f3",
+        "android_client_info": {
+          "package_name": "com.reelsdownloaderinsta.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDYQO1b4-Un1IAVXGiOxumCQHC3OyVuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
